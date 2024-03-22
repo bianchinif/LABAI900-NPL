@@ -1,1 +1,4 @@
-
+Olá estou usando o microsoft azure speach studio.
+O que iremos aprender hoje?
+A viagem ao méxico foi ótima!
+O tempo parece que vai virar.
